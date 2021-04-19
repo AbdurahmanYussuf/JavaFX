@@ -1,9 +1,3 @@
-/**
- * Abdurahman Yussuf 991625727
- * Mohammad Nasif Parvez 991582482
- * Final Project
- * April 18, 2021
- */
 package salesfx;
 
 import content.Employee;
