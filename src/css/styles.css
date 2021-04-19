@@ -1,0 +1,19 @@
+/**
+ * Abdurahman Yussuf 991625727
+ * Mohammad Nasif Parvez 991582482
+ * Final Project
+ * April 18, 2021
+ */
+.root{
+    -fx-background-color:#383838;
+}
+.label{
+    -fx-text-fill:white;
+}
+RadioButton{
+    -fx-text-fill:white;
+}
+Button{
+    -fx-text-fill:red;
+}
+
